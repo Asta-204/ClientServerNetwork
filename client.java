@@ -1,8 +1,10 @@
+package project1;
+
 import java.net.*;
 import java.io.*;
 import java.util.*;
 
-public class FileClient {
+public class client {
 
     private static Socket sock;
     private static String fileName;
